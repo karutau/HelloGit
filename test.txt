@@ -1,4 +1,5 @@
 hello git!
 Edit test!
 branch test!
-2 branch test!!
+Master branch
+test branch
